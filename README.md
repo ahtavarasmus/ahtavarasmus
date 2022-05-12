@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahtavarasmus
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on idk yet
-- 📫 How to reach me ahtavarasmus@gmail.com or instagram rasmusahtava
+- 👀 I’m interested in programming haha
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to collaborate on projects:)
+- 📫 How to reach me ahtavarasmus@gmail.com or discord Rasmus#6203
 
