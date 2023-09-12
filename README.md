@@ -5,4 +5,4 @@ some of my projects:
 - [tlog.training](https://tlog.training) (training diary)
 - [light.tel](https://light.tel) (personal database and reminder system, not public yet)
 
-[![Latest Posts](https://pacepeek.ngrok.app/readme_widget_svg/ahtavarasmus/3)](https://pacepeek.ngrok.app/profile/ahtavarasmus)
+[![Latest Posts](https://pacepeek.ngrok.app/markdown_widget_svg/ahtavarasmus/3)](https://pacepeek.ngrok.app/profile/ahtavarasmus)
