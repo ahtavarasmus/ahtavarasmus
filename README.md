@@ -4,5 +4,5 @@ some of my projects:
 - [pacepeek.com](https://pacepeek.com) (summarising tool for coding progress)
 - [tlog.training](https://tlog.training) (training diary)
 - [light.tel](https://light.tel) (personal database and reminder system, not public yet)
-
-[![Latest Posts](https://pacepeek.ngrok.app/markdown_widget_svg/ahtavarasmus/3)](https://pacepeek.ngrok.app/profile/ahtavarasmus)
+- 
+[![Recent Posts on PacePeek.com](https://pacepeek.ngrok.app/markdown_widget_svg/ahtavarasmus/3?fill_color=232626&stroke_color=0a8eb0&text_color=ffffff)](https://pacepeek.ngrok.app/profile/ahtavarasmus)
