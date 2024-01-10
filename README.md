@@ -7,4 +7,4 @@ some of my projects:
 - [medal_ceremony_slides_maker](https://github.com/ahtavarasmus/medal_cerenomy_slides_maker) (gui program that creates powerpoint presentation for medal giving ceremony)
 
 
-[![Recent Posts on PacePeek.com](https://pacepeek.ngrok.app/widget_svg/ahtavarasmus/3?fill_color=232626&stroke_color=0a8eb0&text_color=ffffff)](https://pacepeek.ngrok.app/ahtavarasmus)
+[![Recent Posts on PacePeek.com](https://pacepeek.com/widget_svg/ahtavarasmus/3?fill_color=232626&stroke_color=0a8eb0&text_color=ffffff)](https://pacepeek.com/ahtavarasmus)
