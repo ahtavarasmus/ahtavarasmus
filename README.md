@@ -1,7 +1,9 @@
 hi i'm rasmus see what i'm doing at [ahtavarasm.us](https://ahtavarasm.us) :)
 
 some of my projects:
-- [pacepeek.com](https://pacepeek.com), summarising tool for coding progress, hard at building! email me for early access at [r@rasmusmultiverse.com](tab:mailto:r@rasmusmultiverse.com) or follow the progress at [x.com/pacepeekdev](tab:https://x.com/pacepeekdev) 
+- [pacepeek.com](https://pacepeek.com), summarising tool for coding progress, hard at building!
+email me for early access at [r@rasmusmultiverse.com](tab:mailto:r@rasmusmultiverse.com)
+or follow the progress at [x.com/pacepeekdev](tab:https://x.com/pacepeekdev) 
 
 [![Recent Updates on PacePeek.com](https://pacepeek.com/widget_svg_org/149307331/648903558/2?fill_color=232626&stroke_color=0a8eb0&text_color=ffffff)](https://pacepeek.com)
 
