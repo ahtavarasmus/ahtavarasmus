@@ -6,7 +6,7 @@ email me for early access at [r@rasmusmultiverse.com](mailto:r@rasmusmultiverse.
 or follow the progress at [x.com/pacepeekdev](https://x.com/pacepeekdev) 
 
 
-[![Recent Updates on PacePeek.com](https://pacepeek.com/widget_svg_org/149307331/648903558/3?fill_color=0fbce9&stroke_color=0fbce9&text_color=0d1117)](https://pacepeek.com/pacepeek)
+[![Recent Updates on PacePeek.com](https://pacepeek.com/widget_svg_org/149307331/648903558/2?fill_color=0fbce9&stroke_color=0fbce9&text_color=0d1117)](https://pacepeek.com/pacepeek)
 
 
 - [tlog.training](https://github.com/ahtavarasmus/tlog) (training diary)
