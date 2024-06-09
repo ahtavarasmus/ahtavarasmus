@@ -1,10 +1,8 @@
 hi i'm rasmus see what i'm doing at [ahtavarasm.us](https://ahtavarasm.us) :)
 
 some of my projects:
-- [pacepeek.com](https://pacepeek.com), summarising tool for coding progress, hard at building!
-email me for early access at [r@rasmusmultiverse.com](mailto:r@rasmusmultiverse.com)
-or follow the progress at [x.com/pacepeekdev](https://x.com/pacepeekdev) 
-
+- [pacepeek.com](https://pacepeek.com), social media for coders.
+- [whatwedid.dev](https://whatwedid.dev), for tracking software projects.
 
 [![Recent Updates on PacePeek.com](https://pacepeek.com/widget_svg_org/149307331/648903558/2?fill_color=0fbce9&stroke_color=0fbce9&text_color=0d1117)](https://pacepeek.com/pacepeek)
 
