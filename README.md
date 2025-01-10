@@ -1,6 +1,7 @@
 hi i'm rasmus see what i'm doing at [ahtavarasm.us](https://ahtavarasm.us) :)
 
 some of my projects:
+- [dumbphonehelp](https://github.com/ahtavarasmus/dumbphonehelp), started learning rust and vapi.ai to make phone agent that could handle perplexity, emails, calendar etc.
 - [pacepeek.com](https://pacepeek.com), social media for coders.
 - [mugglelens.com](https://mugglelens.com), for tracking software projects.
 - [tlog](https://github.com/ahtavarasmus/tlog) (training diary)
