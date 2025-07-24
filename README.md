@@ -1,7 +1,7 @@
 hi i'm rasmus see what i'm doing at [ahtavarasm.us](https://ahtavarasm.us) :)
 
 some of my projects:
-- [lightfriend](https://github.com/ahtavarasmus/lightfriend), phone agent that could handle perplexity, emails, calendar etc. since dumbphone users lack the access to them currently.
+- [lightfriend](https://github.com/ahtavarasmus/lightfriend), phone agent that watches your messages, notifies you about important ones and answers questions for dumbphone users.
 - [pacepeek.com](https://pacepeek.com), social media for coders.
 - [mugglelens.com](https://mugglelens.com), for tracking software projects.
 - [tlog](https://github.com/ahtavarasmus/tlog) (training diary)
