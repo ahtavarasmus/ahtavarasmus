@@ -1,4 +1,4 @@
-hi i'm rasmus see what i'm doing at [ahtavarasm.us](https://ahtavarasm.us) :)
+hi i'm rasmus see what i'm doing at [ahtavarasm.us](https://rasmus.ahtava.com) :)
 
 some of my projects:
 - [lightfriend](https://github.com/ahtavarasmus/lightfriend), phone agent that watches your messages, notifies you about important ones and answers questions for dumbphone users.
